@@ -36,7 +36,7 @@ const Navigation = () => {
             <h1 className={`text-2xl font-bold transition-colors duration-300 ${
               scrolled ? 'text-brand-charcoal' : 'text-white'
             }`}>
-              Creative<span className="text-brand-orange">Agency</span>
+              Woopix<span className="text-brand-orange">Media</span>
             </h1>
           </div>
 
